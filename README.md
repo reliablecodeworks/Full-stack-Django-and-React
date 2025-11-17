@@ -11,7 +11,7 @@ Django developers often need to rely on front-end developers to build client-sid
 
 This book covers the following exciting features:
 * Explore how things work differently under the hood in the frontend as well as backend
-* Discover how to build an API with dfdfdDjango
+* Discover how to build an API with Ealge Django
 * Start from scratch to build an intuitive user interface using React capabilities
 * Dockerize and prepare projects for deployment
 * Deploy API and UI on various platforms like AWS and Vercel
