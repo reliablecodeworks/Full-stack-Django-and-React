@@ -29,7 +29,7 @@ function Home() {
               <Image
                 src={user.avatar}
                 roundedCircle
-                width={52}
+                width={55}
                 height={52}
                 className="my-2"
               />
