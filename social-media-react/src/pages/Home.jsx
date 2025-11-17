@@ -30,7 +30,7 @@ function Home() {
                 src={user.avatar}
                 roundedCircle
                 width={55}
-                height={52}
+                height={55}
                 className="my-2"
               />
             </Col>
